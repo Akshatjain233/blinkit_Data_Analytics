@@ -1,0 +1,4 @@
+Test,Result
+Pareto: Items covering 80% sales,Top 8 of 16 item types = 80% of revenue
+T-Test: Tier2 vs Tier3,"t=0.9911, p=0.3217 (Not Significant)"
+T-Test: Low Fat vs Regular,"t=-1.7282, p=0.0840 (Not Significant)"
